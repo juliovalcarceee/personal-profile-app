@@ -1,0 +1,16 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "Servidor Express con rutas de perfil personal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "node", "api"],
+  "author": "Julio Valcárcel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
